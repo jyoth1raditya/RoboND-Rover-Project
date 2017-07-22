@@ -1,10 +1,10 @@
 [//]: # (Image References)
-[image_1]: ./misc/rover_image.jpg
+[image_1]: ./misc/r.jpg
 # Rover Drives Smoothly and cover all the arena
 ![alt text][image_1]
 
 [//]: # (Image References)
-[image_0]: ./misc/r.png
+[image_0]: ./misc/rover_image.jpg
 # Search and Sample Return Project
 ![alt text][image_0]
 
