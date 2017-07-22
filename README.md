@@ -1,5 +1,5 @@
 [//]: # (Image References)
-[image_1]: ./misc/r.jpg
+[image_1]: ./misc/r.png
 # Rover Drives Smoothly and cover all the arena
 ![alt text][image_1]
 
